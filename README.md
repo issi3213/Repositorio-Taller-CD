@@ -129,3 +129,4 @@ Esto permite entender que trabajar en un proyecto de ciencia de datos va más al
 - Isaac Namen 202520778
 - Jose Alejandro Benito 202523232
 - Sara Amador 202623400
+- Manuel Ricardo Mora Pulido 202620697
