@@ -57,9 +57,12 @@ Al finalizar el proyecto se espera contar con:
 - Interpretación de los principales hallazgos.
 - Código organizado y reproducible.
 - Documentación completa dentro del repositorio.
-Conclusión
+
+## **Conclusión**
 Este proyecto permite aplicar de manera práctica el flujo básico de trabajo de un científico de datos. Además del análisis de la información, se busca desarrollar buenas prácticas de organización, documentación, reproducibilidad y control de versiones mediante GitHub.
 
 
-Autores:
-Isaac Namen 202520778, Jose Alejandro Benito 202523232, Sara Amador 202623400
+### **Autores:**
+- Isaac Namen 202520778
+- Jose Alejandro Benito 202523232
+- Sara Amador 202623400
